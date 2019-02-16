@@ -1,0 +1,7 @@
+# ignore venv files
+/bin/*
+/include/*
+/lib/*
+
+# ignore byte code files
+*.pyc
